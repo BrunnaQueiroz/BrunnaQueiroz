@@ -16,6 +16,8 @@ Ademais, por estamos inseridos em um contexto onde os dados são cada vez mais i
   <img align='center' alt='Brunna-TS' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 </div>
 
+##
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunnaQueiroz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
