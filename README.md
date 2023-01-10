@@ -2,7 +2,7 @@
 
 ##### Biografia
 
-Estudante de nutrição e também de análise e desenvolvimento de sistemas. Apaixonada pelo back-end, mas ainda mais pelo front 😍.
+Estudante de Análise e Desenvolvimento de Distemas e Banco de Dados. Apaixonada pelo front-end, mas disposta a conhecer também o server-side 😍.
 
 !(Python)(https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 !(HTML5)(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
