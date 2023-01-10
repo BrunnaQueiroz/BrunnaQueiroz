@@ -8,7 +8,7 @@
 Ademais, por estamos inseridos em um contexto onde os dados são cada vez mais importantes e decisivos tanto para os resultados das empresas, quanto para a segurança das pessoas, estou realizando uma graduação em Banco de Dados, na XP Educação. O meu objetivo é entender melhor quais os processos envolvidos desde o recebimento até a exclusão dos dados e as melhores práticas de segurança para que este fluxo ocorra da forma esperada.
 
 <div id='icons'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height: '10px'/>
 </div>
 
 !(Python)(https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
