@@ -1,4 +1,4 @@
-## Olá! Eu sou Brunna Queiroz 👋
+## Oii! Eu sou Brunna Queiroz 👋
 
 ##### Biografia
 
