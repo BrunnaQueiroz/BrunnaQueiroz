@@ -5,7 +5,7 @@
 
 📚 O meu foco atualmente é o front-end. Sou apaixonada pela possibilidade de criar um mundo partindo do zero e, para isso, procuro me aprofundar em conceitos como psicologia das cores 🌈 e tipografia. <br>
 💻 Além disso, também me interesso pelo design e busco conhecer melhor as áreas de User Interface e User Experience. <br>
-Ademais, por estamos inseridos em um contexto onde os dados são cada vez mais importantes e decisivos, estou realizando uma graduação em Banco de Dados, na XP Educação. 
+🎲 Ademais, por estamos inseridos em um contexto onde os dados são cada vez mais importantes e decisivos, estou realizando uma graduação em Banco de Dados, na XP Educação. 
 
 <div id='icons' style='padding: 250px'>
   <img align='center' alt='Brunna-Python' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
