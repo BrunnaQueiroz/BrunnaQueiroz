@@ -8,10 +8,10 @@
 🎲 Ademais, por estamos inseridos em um contexto onde os dados são cada vez mais importantes e decisivos, estou realizando uma graduação em Banco de Dados, na XP Educação. 
 
 <div id='icons' style='padding: 250px'>
-  <a href="https://www.python.org/"><img align='center' alt='Brunna-Python' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
-  <a href="https://www.techtudo.com.br/noticias/2011/12/o-que-e-html5.ghtml"><img align='center' alt='Brunna-HTML' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
-  <a href= "https://www.w3schools.com/css/"><img align='center' alt='Brunna-CSS' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
   <a href="https://www.javascript.com/"><img align='center' alt='Brunna-JS' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+  <a href="https://www.techtudo.com.br/noticias/2011/12/o-que-e-html5.ghtml"><img align='center' alt='Brunna-HTML' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+  <a href="https://www.python.org/"><img align='center' alt='Brunna-Python' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>  
+  <a href= "https://www.w3schools.com/css/"><img align='center' alt='Brunna-CSS' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>  
   <a href="https://pt-br.reactjs.org/"><img align='center' alt='Brunna-React' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
   <a href="https://www.typescriptlang.org/"><img align='center' alt='Brunna-TS' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
 </div>
