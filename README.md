@@ -26,5 +26,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunnaQueiroz&repo=devweekgit.github-io)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contatos
+<div>
+<img  <a href="https://www.linkedin.com/in/brunna-queiroz-4a7255257/">src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
+</div>
 
-(<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white')
