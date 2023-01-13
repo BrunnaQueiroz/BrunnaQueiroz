@@ -30,6 +30,6 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
 </header>
 <div id='contact'>
-  <img style='color: white' align='center' alt='Brunna-Linkedin' height='150px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>  
+  <img style='color: white' align='center' alt='Brunna-Linkedin' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>  
 </div>
 
