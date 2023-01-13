@@ -30,6 +30,6 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
 </header>
 <div id='contact'>
-  <img  height='30px' width='40' style='color: white' align='center' alt='Brunna-Linkedin' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>  
+  <a href="https://www.linkedin.com/in/brunna-queiroz-4a7255257/"><img  height='30px' width='40' style='color: white' align='center' alt='Brunna-Linkedin' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 </div>
 
