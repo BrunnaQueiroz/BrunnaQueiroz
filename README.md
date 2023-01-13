@@ -26,7 +26,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunnaQueiroz&repo=devweekgit.github-io)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contatos
-<div id='contact' style='backgroundColor: white; width: 300px;'>
-  <img align='center' alt='Brunna-Linkedin' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>
+<div id='contact'>
+  <img style='backgroundColor: white; width: 300px' align='center' alt='Brunna-Linkedin' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>
 </div>
 
