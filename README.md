@@ -21,10 +21,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunnaQueiroz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Projetos
+<!--# Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunnaQueiroz&repo=devweekgit.github-io)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 # Contatos
 <header>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
