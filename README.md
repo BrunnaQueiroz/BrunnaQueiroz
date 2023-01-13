@@ -8,7 +8,7 @@
 🎲 Ademais, por estamos inseridos em um contexto onde os dados são cada vez mais importantes e decisivos, estou realizando uma graduação em Banco de Dados, na XP Educação. 
 
 <div id='icons' style='padding: 250px'>
-  <img align='center' alt='Brunna-Python' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <a href="https://www.python.org/"><img align='center' alt='Brunna-Python' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
   <img align='center' alt='Brunna-HTML' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align='center' alt='Brunna-CSS' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align='center' alt='Brunna-JS' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
