@@ -27,6 +27,6 @@
 
 # Contatos
 <div>
-<img  <a href="https://www.linkedin.com/in/brunna-queiroz-4a7255257/">src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
+  <img align='center' alt='Brunna-Linkedin' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </div>
 
