@@ -17,11 +17,11 @@
 </div>
 
 ##
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunnaQueiroz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--# Projetos
+# Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunnaQueiroz&repo=devweekgit.github-io)](https://github.com/anuraghazra/github-readme-stats)
 -->
