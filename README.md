@@ -26,8 +26,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunnaQueiroz&repo=devweekgit.github-io)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contatos
+<header>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
+</header>
 <div id='contact'>
   <img style='color: white' align='center' alt='Brunna-Linkedin' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>
-  <i class="devicon-linkedin-plain-wordmark colored"></i>
+  <i class="devicon-linkedin-plain-wordmark colored">Linkedin</i>
 </div>
 
