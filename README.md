@@ -27,6 +27,6 @@
 
 # Contatos
 <div id='contact'>
-  <img style='backgroundColor: white; width: 300px' align='center' alt='Brunna-Linkedin' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>
+  <img style='color: white' align='center' alt='Brunna-Linkedin' height='30px' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>
 </div>
 
